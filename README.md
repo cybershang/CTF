@@ -1,2 +1,1 @@
-# CTF
-First commit
+# This is draft
